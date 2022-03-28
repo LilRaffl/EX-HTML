@@ -1,0 +1,29 @@
+body{
+    background-color:slategray;
+    }
+
+ul{
+    color:aliceblue;
+
+}
+
+.lis{
+    color:#e74c3c;
+}
+
+.list{
+    color:#f1c40f
+}
+
+.day{
+    background-color:#f1c40f;
+    color:black;
+    border: solid 3px black;
+}  
+
+
+
+#exemplo{
+
+    color:chartreuse;
+}
